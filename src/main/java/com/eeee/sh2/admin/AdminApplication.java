@@ -1,4 +1,4 @@
-package com.eeee.admin;
+package com.eeee.sh2.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
